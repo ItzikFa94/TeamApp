@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "144564416283",
+    "firebase_url": "https://teamapp-bgu-hackathon.firebaseio.com",
+    "project_id": "teamapp-bgu-hackathon",
+    "storage_bucket": "teamapp-bgu-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144564416283:android:3261ec29e3d55346022dbe",
+        "android_client_info": {
+          "package_name": "com.example.teamappbguhackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144564416283-c6n3hal0ma7k739shhlp99mrg459381a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teamappbguhackathon",
+            "certificate_hash": "4784dbf39f33969207ae086c3faba6fb6eb088d6"
+          }
+        },
+        {
+          "client_id": "144564416283-qn19instoao1gq1f2atka4a0ha5qtgsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcY5TwOYbbfToRXqo0fj6-hdkfXF4-hxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144564416283-qn19instoao1gq1f2atka4a0ha5qtgsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
